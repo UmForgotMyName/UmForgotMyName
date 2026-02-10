@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Rehan Siddiqi 🍅🤖</h1>
-
-<p align="center">
-  <b>Robotics, Embedded Systems, and AI</b> | University of Guelph
-</p>
-
-<br/>
+<div align="center">
+  <h1>Hi, I'm Rehan Siddiqi 🍅🤖</h1>
+  <p><b>Robotics, Embedded Systems, and AI</b> | University of Guelph</p>
+  <hr style="width:70%;"/>
+</div>
 
 <p>
-<b>About Me:</b> I’m a computer engineering student who builds robots and the software behind them. I work across perception, motion planning, and embedded systems. Recently I have been building harvesting robot pipelines, developing firmware and control for mobile robots, and using simulation to test and validate ideas before running on hardware.
+  <b>About Me:</b> I’m a computer engineering student who builds robots and the software behind them. I work across perception, motion planning, and embedded systems. Recently I have been building harvesting robot pipelines, developing firmware and control for mobile robots, and using simulation to test and validate ideas before running on hardware.
 </p>
 
 <br/>
