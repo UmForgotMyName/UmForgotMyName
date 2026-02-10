@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hi, I'm Rehan Siddiqi 🍅🤖</h2>
+  <h3>Hi, I'm Rehan Siddiqi 🍅🤖</h3>
   <p><b>Robotics, Embedded Systems, and AI</b> | University of Guelph</p>
-  <hr style="width:70%;"/>
+  <hr width="70%" />
 </div>
 
 <p>
