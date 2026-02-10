@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Rehan Siddiqi 🍅🤖</h1>
+  <h2>Hi, I'm Rehan Siddiqi 🍅🤖</h2>
   <p><b>Robotics, Embedded Systems, and AI</b> | University of Guelph</p>
   <hr style="width:70%;"/>
 </div>
